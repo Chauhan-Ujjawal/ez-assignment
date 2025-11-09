@@ -1,0 +1,8 @@
+/* turn into X */
+.clicked .burger:nth-child(1) {
+  transform: translateY(0.35rem) rotate(45deg);
+}
+
+.clicked .burger:nth-child(2) {
+  transform: translateY(-0.35rem) rotate(-45deg);
+}
