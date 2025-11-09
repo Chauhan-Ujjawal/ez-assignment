@@ -1,6 +1,6 @@
 import React from "react";
 import mandala from "../assets/Mandala.png";
-import vfilms from "../assets/VFilms.png";
+import vfilms from "../assets/vfilms.png";
 
 function LandingPage() {
   return (
